@@ -1,0 +1,42 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
+    <recentFileMasks>
+      <mask>*.mxml</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>*.jaav</mask>
+      <mask>*.jaa</mask>
+      <mask>*.js[</mask>
+      <mask>*.jsp</mask>
+      <mask>*.js</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradle</mask>
+      <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.yum</mask>
+      <mask>*.yu</mask>
+      <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*</mask>
+      <mask>*.jvava</mask>
+      <mask>*.jvav</mask>
+      <mask>*.jva</mask>
+      <mask>*.jv</mask>
+      <mask>*.jav</mask>
+      <mask>*.*</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>

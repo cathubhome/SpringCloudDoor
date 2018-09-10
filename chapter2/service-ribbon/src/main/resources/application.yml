@@ -1,0 +1,33 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 8763
+spring:
+  application:
+    name: service-ribbon
+  zipkin:
+   base-url: http://localhost:9411 #服务链追踪,web地址
+feign:
+   hystrix:
+    enabled: true
+#断路器监控(Hystrix Dashboard)
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+      cors:
+        allowed-origins: "*"
+        allowed-methods: "*"
+
+#断路器聚合监控(Hystrix Turbine)
+turbine:
+  app-config: service-client,service-ribbon
+  aggregator:
+    clusterConfig: default
+  clusterNameExpression: new String("default")
+  combine-host: true
+  instanceUrlSuffix:
+    default: actuator/hystrix.stream

@@ -206,7 +206,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1003</Count>
+          <Count>1004</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1014,7 +1014,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>622</Count>
+          <Count>623</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'Unnamed' application">

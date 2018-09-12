@@ -1022,7 +1022,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>624</Count>
+          <Count>628</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'Unnamed' application">

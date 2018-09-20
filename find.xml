@@ -5,18 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.jaav</mask>
-      <mask>*.jaa</mask>
-      <mask>*.js[</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradl</mask>
       <mask>*.gradle</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
@@ -37,6 +27,16 @@
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.*</mask>
+      <mask>pm</mask>
+      <mask>pim</mask>
+      <mask>pi</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
